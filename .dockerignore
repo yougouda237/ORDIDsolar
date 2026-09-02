@@ -1,0 +1,6 @@
+.venv
+pycache
+*.pyc
+.pytest_cache
+uploads
+ordidsolar.db
